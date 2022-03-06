@@ -1,4 +1,4 @@
-### Olá, Meu nome é Ícaro, Seja bem vindo(a)👋
+### Olá, Meu nome é Ícaro. Seja bem vindo(a)👋
 
 - 📚Estudando : JavaScript, HTML, CSS
 - 👯 Procurando por : Estágio
