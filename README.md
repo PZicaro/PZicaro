@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Ícaro. Seja bem vindo(a)👋
 
-- 📚Estudando : TypeScript e React
+- 📚Estudando : PHP
 - 🤔 Me formando em: Bacharelado em Sistema de informação-IFBA
 - 📞 icaro2rodrigues@gmail.com 
 
