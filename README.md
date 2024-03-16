@@ -20,11 +20,11 @@
         
 </div>
   <br>
-  <div style="display: inline_block> 
+  <div style="display: inline_block"> 
          
   <a href="https://www.linkedin.com/in/%C3%ADcaro-rodrigues-07256820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
-  <a href="https://www.linkedin.com/in/%C3%ADcaro-rodrigues-07256820a/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-pzicaro.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
      
  
     
